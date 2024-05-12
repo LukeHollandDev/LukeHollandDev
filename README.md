@@ -1,1 +1,3 @@
-![Hello there! - Obi-Wan Kenobi](./hello_there.gif "Obi-Wan Kenobi")
+<p align="center">
+    <img src="./hello_there.gif" alt="Hello there! - Obi-Wan Kenobi" />
+</p>
