@@ -22,6 +22,6 @@ Recipe Website is a simple recipe repository which brings together recipes from 
 
 The website allows users to find and view recipes, which includes ingredient lists and instructions, they can also sign up and keep track of their favourite recipes!
 
-### Algorithm Animator [🏫🌐](https://recipes.lukeholland.dev/)
+### Algorithm Animator [🏫🌐](https://lukeholland.dev/university_project/)
 
 Algorithm Animator was developed for my final year project at University of Glasgow, it was designed to help students learn graph algorithms by allowing them to create graphs and watch an animation of a graph algorithm.
